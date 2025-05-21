@@ -30,6 +30,20 @@ const Certificates = () => {
       credentialLink: "https://www.dicoding.com/certificates/RVZKWJGENZD5",
       imageSrc: "/be-pemula.png?height=200&width=400",
     },
+    {
+      title: "Belajar Git dengan Github",
+      issuer: "Dicoding Indonesia",
+      date: "Januari 2025",
+      credentialLink: "https://www.dicoding.com/certificates/GRX53G872Z0M",
+      imageSrc: "/git.png?height=200&width=400",
+    },
+    {
+      title: "Coding Camp powered by DBS Foundation, Frontend and Backend Developer",
+      issuer: "Dicoding Indonesia & DBS Foundation",
+      date: "May 2025",
+      credentialLink: "https://drive.google.com/file/d/1gfBWw2YrTwVRuyvQit2abpJvx2aPgDU4/view?usp=drivesdk",
+      imageSrc: "/sertif-codingcamp.png?height=200&width=400",
+    },
   ]
 
   return (
